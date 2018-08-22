@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
  Should be able to work on branching & merging after this course
 
 ## Examples also for branching & merging
+ Should be able to merge & rebase code across branches
 
 ## Few comments to explain about project
 
