@@ -2,3 +2,6 @@ This is a new file
 
 ## FEATURE-BRANCH
  This section is for FEATURE branch
+
+## FEATURE-BRANCH 2
+ This section is for FEATURE branch 2
