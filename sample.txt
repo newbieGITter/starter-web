@@ -1,6 +1,6 @@
 This is a new file
-## MASTER
- This section is for MASTER branch but can be used for commits on all branches
+## MASTER BRANCH
+ This is on MASTER branch so only this will be going to PROD first!
 
 
 ## FEATURE-BRANCH
