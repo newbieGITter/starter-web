@@ -1,4 +1,4 @@
 This is a new file
 
-## MASTER
- This section is for MASTER branch
+## FEATURE-BRANCH
+ This section is for FEATURE branch
