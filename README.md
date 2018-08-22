@@ -7,3 +7,5 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Explanation about git branching, staging, tagging etc
+
+## Examples also for branching & merging
