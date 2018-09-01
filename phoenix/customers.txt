@@ -1,1 +1,2 @@
 THis file contains details about customers
+This is a new line from branch
