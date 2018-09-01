@@ -2,6 +2,6 @@ Adding new file here
 Adding 2nd line from branch
 Adding 3rd line from branch
 Adding 4th line from master
-Adding 5th line from BRANCH
+Adding 5th line from BRANCH. Adding some more changes
 Adding changes before rebasing conflicts. I hope we get a conflict on this line
 
