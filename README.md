@@ -7,7 +7,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Explanation about git branching, staging, tagging etc
- Should be able to work on branching & merging after this course
+ Should be able to work on branching & merging after this course. Adding some more lines for rebasing example
 
 ## Examples also for branching & merging
  Should be able to merge & rebase code across branches when there are more than 1 branch
